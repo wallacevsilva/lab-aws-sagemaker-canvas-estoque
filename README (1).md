@@ -1,11 +1,6 @@
 
 # 👕 Previsão de Estoque de Camisas de Times com Amazon SageMaker Canvas
 
-## 💡 Desafio DIO: Machine Learning No-Code
-
-Este projeto faz parte do desafio prático da DIO, com o objetivo de desenvolver um modelo preditivo de **previsão de estoque de camisas de times de futebol** utilizando o **Amazon SageMaker Canvas**, uma ferramenta de Machine Learning **no-code** da AWS.
-
----
 
 ## 🎯 Objetivo
 
@@ -69,19 +64,3 @@ O SageMaker Canvas treinou automaticamente o modelo com boa precisão. A previs�
 - [AWS SageMaker Canvas](https://aws.amazon.com/sagemaker/canvas/)
 - Machine Learning No-Code
 - GitHub
-
----
-
-## 📎 Link do Projeto
-
-🔗 [https://github.com/SEU_USUARIO/lab-aws-sagemaker-canvas-estoque](https://github.com/SEU_USUARIO/lab-aws-sagemaker-canvas-estoque)  
-> Substitua “SEU_USUARIO” pelo seu nome de usuário no GitHub
-
----
-
-## 👩‍💻 Desenvolvido por
-
-**Larissa Xavier**  
-Desafio DIO - Previsão de Estoque de Camisas de Futebol com ML No-Code na AWS ⚽
-
----
